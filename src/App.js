@@ -4,7 +4,7 @@ const App = () => {
   const portfolioData = {
     name: "Akshat Tiwari",
     reg:"21BCE0376",
-    place: "Chittorgarh , RAJ | India",
+    place: "Bhilai , Chattisgarh | India",
     skills: ["Cloud Practitioner","Proficient in Java & C++", "Novice in Web Development(Mern)", "Intermediate in Database(mySQL & MongoDB)"],
     projects: [
       {
